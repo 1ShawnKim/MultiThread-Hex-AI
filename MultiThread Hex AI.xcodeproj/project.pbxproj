@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5F8A24C32A2E4C2D00BF3C58 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5F8A24C22A2E4C2D00BF3C58 /* main.cpp */; };
+		5F8A24CB2A2E4F3300BF3C58 /* graph.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5F8A24C92A2E4F3300BF3C58 /* graph.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		5F8A24BF2A2E4C2D00BF3C58 /* MultiThread Hex AI */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "MultiThread Hex AI"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F8A24C22A2E4C2D00BF3C58 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5F8A24C92A2E4F3300BF3C58 /* graph.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = graph.cpp; sourceTree = "<group>"; };
+		5F8A24CA2A2E4F3300BF3C58 /* graph.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = graph.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +44,8 @@
 		5F8A24B62A2E4C2D00BF3C58 = {
 			isa = PBXGroup;
 			children = (
+				5F8A24C92A2E4F3300BF3C58 /* graph.cpp */,
+				5F8A24CA2A2E4F3300BF3C58 /* graph.hpp */,
 				5F8A24C12A2E4C2D00BF3C58 /* MultiThread Hex AI */,
 				5F8A24C02A2E4C2D00BF3C58 /* Products */,
 			);
@@ -119,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F8A24CB2A2E4F3300BF3C58 /* graph.cpp in Sources */,
 				5F8A24C32A2E4C2D00BF3C58 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
