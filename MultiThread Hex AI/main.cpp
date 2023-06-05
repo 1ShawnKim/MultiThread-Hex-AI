@@ -1,4 +1,3 @@
-//
 //  main.cpp
 //  MultiThread Hex AI
 //  A simple HEX game using multi-thread Monte Carlo AI.

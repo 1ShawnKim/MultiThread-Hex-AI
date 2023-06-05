@@ -1,8 +1,7 @@
-//
 //  graph.hpp
 //   including a basic graph class and its derivative for Hex Game
 //             a shortest path algorithm and a MST algorithm using the class.
-//  Created by Shawn Kim on 6/5/23.
+//  Created by 1ShawnKim@Github on 6/5/23.
 //  reference 1: https://en.wikipedia.org/wiki/Dijkstra's_algorithm
 //  reference 2: https://en.wikipedia.org/wiki/Minimum_spanning_tree
 #ifndef graph_hpp

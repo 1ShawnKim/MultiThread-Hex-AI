@@ -1,4 +1,3 @@
-//
 //  graph.cpp
 //   including a basic graph class and its derivative for Hex Game
 //             a shortest path algorithm and a MST algorithm using the class.
